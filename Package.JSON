@@ -1,0 +1,14 @@
+{
+  "name": "my-risk-profiler",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.8.0"
+  },
+  "scripts": {
+    "start": "npx serve -s public",
+    "build": "echo \"Static build step here\""
+  }
+}
